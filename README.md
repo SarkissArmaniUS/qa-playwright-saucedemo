@@ -4,7 +4,7 @@
 [![Report](https://img.shields.io/badge/Test%20report-live-brightgreen)](https://SarkissArmaniUS.github.io/qa-playwright-saucedemo/)
 
 End-to-end UI test framework for the demo shop [saucedemo.com](https://www.saucedemo.com).
-23 tests cover login, inventory sorting, cart and checkout, built with the Page Object Model and a shared authenticated session.
+24 tests cover login, inventory sorting, cart and checkout, built with the Page Object Model and a shared authenticated session.
 
 ## Tech stack
 Playwright · TypeScript · Page Object Model · Fixtures · GitHub Actions · GitHub Pages (HTML report)
